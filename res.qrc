@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ground.png">image/GROUND.png</file>
+        <file alias="bird.png">image/Normal_Bird_1.png</file>
+        <file>image/bomb.png</file>
+        <file>image/pig1.png</file>
+        <file>image/speed.png</file>
+        <file>image/barrier1.png</file>
+        <file>image/barrier2.png</file>
+        <file>image/barrier3.png</file>
+        <file>image/flame.png</file>
+        <file>image/png+icon/green.png</file>
+        <file>image/ahri_poro.png</file>
+        <file>image/love.png</file>
+        <file>image/malphite_poro.png</file>
+        <file>image/poro.png</file>
+        <file>image/renekton_poro.png</file>
+        <file>image/BACKGROUND.png</file>
+        <file>image/The Beginning1.wav</file>
+    </qresource>
+</RCC>
